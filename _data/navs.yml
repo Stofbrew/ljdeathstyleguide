@@ -4,7 +4,7 @@ sidenav:
     items:
       -
         page: 'Principles'
-        url: /_principles/
+        url: /_Principles/
         subfolderitems:
           -
             page: 'Child Link'
@@ -24,17 +24,17 @@ sidenav:
             url: /
       -
         page: 'Strategy'
-        url: /_strategy/
+        url: /_Strategy/
         subfolderitems:
           -
             page: 'Child Link'
             url: /
       -
         page: 'Models'
-        url: /_models/
+        url: /_Models/
       -
         page: 'Workflows'
-        url: /_workflows/
+        url: /_Workflows/
 
 mainnav:
   -
