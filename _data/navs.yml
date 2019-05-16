@@ -43,11 +43,17 @@ mainnav:
         page: 'Home'
         url: /
       -
-        page: 'Basic page'
-        url: /basic/
+        page: 'Principles'
+        url: /principles/
       -
-        page: 'Form page'
-        url: /form/
+        page: 'Strategy'
+        url: /strategy/
+      -
+        page: 'Models'
+        url: /models/
+      -
+        page: 'Workflows'
+        url: /workflows/
 
 bottomnav:
   -
