@@ -1,9 +1,9 @@
 sidenav:
   -
-    title: 'Sidenav title'
+    title: 'Sections'
     items:
       -
-        page: 'Basic Page'
+        page: 'Principles'
         url: /basic/
         subfolderitems:
           -
@@ -23,17 +23,17 @@ sidenav:
             page: 'Child Link'
             url: /
       -
-        page: 'Form page'
+        page: 'Content strategy'
         url: /form/
         subfolderitems:
           -
             page: 'Child Link'
             url: /
       -
-        page: 'Page Link'
+        page: 'Content models'
         url: /
       -
-        page: 'Page Link'
+        page: 'Content workflows'
         url: /
 
 mainnav:
