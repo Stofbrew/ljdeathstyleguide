@@ -10,15 +10,15 @@ We're building services that help people navigate the death of someone close to 
 
 It's for: 
 - us – the digital.nsw accelerator teams working on services that deal with death and dying  
-– other product teams working on services that deal with death and dying 
-– people who are interested in our approach 
+- other product teams working on services that deal with death and dying 
+- people who are interested in our approach 
 
 Our approach involves researching, building, and testing services with people, and we want to share what we've learned.
 
 A lot of what we're learning is about:
 - what people want to know about 
-– what people don't know about 
-– how people prefer content to be written 
+- what people don't know about 
+- how people prefer content to be written 
 
 It's a complex area, and we know that no approach will work for everyone. 
 
