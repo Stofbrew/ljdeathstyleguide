@@ -23,17 +23,17 @@ sidenav:
             page: 'Child Link'
             url: /
       -
-        page: 'Content strategy'
+        page: 'Strategy'
         url: /form/
         subfolderitems:
           -
             page: 'Child Link'
             url: /
       -
-        page: 'Content models'
+        page: 'Models'
         url: /
       -
-        page: 'Content workflows'
+        page: 'Workflows'
         url: /
 
 mainnav:
